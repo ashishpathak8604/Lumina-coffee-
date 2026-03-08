@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Coffee Cup -->
+  <rect x="12" y="24" width="32" height="28" rx="4" fill="#f59e0b"/>
+  <!-- Cup Handle -->
+  <path d="M44 30 C52 30 52 46 44 46" stroke="#f59e0b" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Steam Lines -->
+  <path d="M22 20 Q24 14 22 8" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M28 18 Q30 12 28 6" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M34 20 Q36 14 34 8" stroke="#f59e0b" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <!-- Saucer -->
+  <ellipse cx="28" cy="56" rx="22" ry="4" fill="#f59e0b" opacity="0.3"/>
+</svg>
